@@ -3,7 +3,7 @@ Algoritmo ivaproducto
 	//aqui defini las variables
 	definir base,iva,producto Como Real
 	//aqui pedi la base
-	escribir "ingrese el producto: "
+	escribir "ingrese el precio del producto: "
 	leer producto
 	//aqui hize el calculo
 	base<- (producto/1.19)
